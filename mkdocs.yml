@@ -1,0 +1,11 @@
+pages:
+  - Home: 'index.md'
+site_name: RockETS Documentation
+repo_url: https://github.com/club-rockets/documentation
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+
+theme: readthedocs
