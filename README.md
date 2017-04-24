@@ -1,2 +1,1 @@
-# documentation
-RockETS's documentation repository.
+# RockETS' documentation
