@@ -1,5 +1,11 @@
 pages:
   - Home: 'index.md'
+  - Base station Documentation:
+    - Overview: 'base_station/overview.md'
+  - Embedded system Documentation:
+	- Overview: 'embedded_system/overview.md'
+	- Critical System: 'embedded_system/critical.md'
+	- Guided Parafoil: 'embedded_system/guided_parafoil.md'
 site_name: RockETS Documentation
 repo_url: https://github.com/club-rockets/documentation
 
